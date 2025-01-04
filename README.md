@@ -1,6 +1,6 @@
 # openminilab
 
-A space for open resources on labs. Minilabs. And sometimes micro and macrolabs. 
+Take me straight to the resources: https://github.com/Wakoma/openminilab/blob/main/resources.md
 
 ## Why this repo? 
 
