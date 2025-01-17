@@ -26,3 +26,4 @@ If anyone wants something removed please email info@wakoma.co and we'll do this 
 
 There are no affiliate links that we know of, and we recommend using local shops over Amazon where possible. 
 
+CC-BY-SA-4.0
