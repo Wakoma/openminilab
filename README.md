@@ -1,6 +1,6 @@
 # openminilab
 
-Take me straight to the resources: https://github.com/Wakoma/openminilab/blob/main/resources.md
+<p align="center"><img alt="Wakoma nimble" src="https://raw.githubusercontent.com/Wakoma/nimble/master/assets/img/Model_M/36.jpg" height="auto" width="800"></p>
 
 ## Why this repo? 
 
