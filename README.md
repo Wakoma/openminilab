@@ -95,6 +95,10 @@ https://www.micropolis.com/support/kb/rack-mounting-faq
 
 # 6" Labs
 
+<p align="center"><img alt="6in NUC shelf" src="https://raw.githubusercontent.com/Wakoma/nimble/refs/heads/master/assets/img/Model_M/12.jpg" height="auto" width="800"></p>
+
+
+
 ## Standards
 
 
