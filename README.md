@@ -162,11 +162,10 @@ https://www.reddit.com/r/homelab/comments/p3oe4a/comment/h8szwtf/
 ## 10" Hardware
 
 
-
 | Category          | Product Name                                      | Link                                                                                     | Notes                          |
 |-------------------|---------------------------------------------------|------------------------------------------------------------------------------------------|--------------------------------|
 | **10" Patch Panels** | Intellinet                                        | [Amazon DE](https://www.amazon.de/gp/product/B078WCLDCP)                                  |                                |
-|                   | deleyCON 12 Port Patch Panel                     | [Amazon DE](https://www.amazon.de/dp/B07QSTJ63S)                                         |                                |
+|                   | deleyCON 12 Port Patch Panel                      | [Amazon DE](https://www.amazon.de/dp/B07QSTJ63S)                                         |                                |
 | **Keystones**     | Amazon Keystones                                  | [Amazon DE](https://www.amazon.de/dp/B07TMQH8CF)                                         |                                |
 | **10" Cabinets**  | HMF                                               | [Amazon DE](https://www.amazon.de/gp/product/B0893ZTQWQ/)                                 |                                |
 |                   | Digitus                                           | [Amazon DE](https://www.amazon.de/-/en/DN-10-09U-B-Digitus-10-inch-Item/dp/B08T1HMPXF)   | Sides cannot be removed        |
@@ -180,59 +179,49 @@ https://www.reddit.com/r/homelab/comments/p3oe4a/comment/h8szwtf/
 |                   | Equip Power Strip                                 | [Amazon DE](https://www.amazon.de/dp/B08HGFDYW9)                                          |                                |
 | **Other Hardware**| Cable Management Panel                            | [Amazon DE](https://www.amazon.de/dp/B08T1JJQD2)                                         |                                |
 
+## 10" 3D Models
 
-## 10" 3D Designs
+| Project Name                                      | Source                                      | Link                                                                                     |
+|---------------------------------------------------|---------------------------------------------|------------------------------------------------------------------------------------------|
+| 10" Server Rack 1U Panel - Tray                   | Printables                                  | [Link](https://www.printables.com/model/569024-10-server-rack-1u-panel-tray)               |
+| 10" Rack - Half Rack Panels for Network Devices (incl. Unifi/Ubiquiti) | Printables | [Link](https://www.printables.com/model/832046-10-rack-half-rack-panels-for-network-devices-incl/files) |
+| 10-inch Rack Mounts                               | MakerWorld (Mauker)                         | [Link](https://makerworld.com/en/collections/2928697)                                      |
+| Ubiquiti Unifi USW-Flex-Mini 2.5G 10" Rack Mount  | MakerWorld                                  | [Link](https://makerworld.com/en/models/752336#profileId-686205)                          |
+| Ubiquiti Unifi USW-Flex-Mini 10-inch Rack Mount   | MakerWorld                                  | [Link](https://makerworld.com/en/models/775179#profileId-711656)                          |
+| 10" UniFi Rack Mount UXG-Max UCG-Ultra UCG-Max    | MakerWorld                                  | [Link](https://makerworld.com/en/models/783611#profileId-721052)                          |
+| 10-inch Keystone Patchpanel x10 Ports             | MakerWorld                                  | [Link](https://makerworld.com/en/models/825894#profileId-769490)                          |
+| 10-inch 1/2U Rack Mount Blanks                   | MakerWorld                                  | [Link](https://makerworld.com/en/models/840793#profileId-786833)                          |
+| 10" Network Rack (3U+4U+5U), Standard Dimensions   | Printables                                  | [Link](https://www.printables.com/model/786506-10-inch-network-rack-3u4u5u-standard-dimensions-al/files) |
+| Storage Drawers                                   | Printables                                  | [Link](https://www.printables.com/model/490222-storage-drawers)                            |
+| Raspberry Pi 4B 10-Inch Rack Mount               | Printables                                  | [Link](https://www.printables.com/model/932007-raspberry-pi-4b-10-inch-rack-mount/files)   |
+| 3D Printable Modular 19-inch Rack Mount Collection (+ 10-inch versions!) | Reddit (u/Mauker_) | [Link](https://www.reddit.com/r/minilab/comments/1hssvol/3d_printable_modular_19inch_rack_mount_collection/) |
+| Dell Optiplex 3040M/3070 Micro 10" Rack Mount    | Printables                                  | [Link](https://www.printables.com/model/587391-dell-optiplex-3040m-3070-micro-10-rack-mount/files) |
+| Dell Optiplex 7060 MicroPC 10-inch Rack Mount     | Printables                                  | [Link](https://www.printables.com/model/980541-dell-optiplex-7060-micropc-10-inch-rack-mount) |
+| 10-inch Rack Wall Mount Adapter                  | Printables                                  | [Link](https://www.printables.com/model/937177-10-inch-rack-wall-mount-adapter)             |
+| 10-inch Rack Project                             | Thingiverse                                 | [Link](https://www.thingiverse.com/thing:3337383)                                         |
+| 10in Home Server Project                         | Printables                                  | [Link](https://www.printables.com/model/275203-10in-home-server-project/files)              |
 
+## 10"in" Projects/Builds
 
-# 10" Server Rack 3D Designs and Projects
-
-# 10" 3D Printable Projects and Hardware
-# 10" 3D Printable Projects and Hardware
-
-| Project Name                                      | Source                                      | Link                                                                                     | Photos                                                                                     |
-|---------------------------------------------------|---------------------------------------------|------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
-| 10" Server Rack 1U Panel - Tray                   | Printables                                  | [Link](https://www.printables.com/model/569024-10-server-rack-1u-panel-tray)               | ![10" Server Rack 1U Panel - Tray](https://via.placeholder.com/400x300/cccccc/000000?text=10%22+Server+Rack+1U+Panel) |
-| 10" Rack - Half Rack Panels for Network Devices (incl. Unifi/Ubiquiti) | Printables | [Link](https://www.printables.com/model/832046-10-rack-half-rack-panels-for-network-devices-incl/files) | ![Half Rack Panels](https://via.placeholder.com/400x300/cccccc/000000?text=Half+Rack+Panels) |
-| 10-inch Rack Mounts                               | MakerWorld (Mauker)                         | [Link](https://makerworld.com/en/collections/2928697)                                      | ![10-inch Rack Mounts](https://via.placeholder.com/400x300/cccccc/000000?text=10-inch+Rack+Mounts) |
-| Ubiquiti Unifi USW-Flex-Mini 2.5G 10" Rack Mount  | MakerWorld                                  | [Link](https://makerworld.com/en/models/752336#profileId-686205)                          | ![USW-Flex-Mini 2.5G Rack Mount](https://via.placeholder.com/400x300/cccccc/000000?text=USW-Flex-Mini+2.5G) |
-| Ubiquiti Unifi USW-Flex-Mini 10-inch Rack Mount   | MakerWorld                                  | [Link](https://makerworld.com/en/models/775179#profileId-711656)                          | ![USW-Flex-Mini Rack Mount](https://via.placeholder.com/400x300/cccccc/000000?text=USW-Flex-Mini) |
-| 10" UniFi Rack Mount UXG-Max UCG-Ultra UCG-Max    | MakerWorld                                  | [Link](https://makerworld.com/en/models/783611#profileId-721052)                          | ![UniFi Rack Mount UXG-Max](https://via.placeholder.com/400x300/cccccc/000000?text=UniFi+Rack+Mount+UXG-Max) |
-| 10-inch Keystone Patchpanel x10 Ports             | MakerWorld                                  | [Link](https://makerworld.com/en/models/825894#profileId-769490)                          | ![Keystone Patchpanel](https://via.placeholder.com/400x300/cccccc/000000?text=Keystone+Patchpanel) |
-| 10-inch 1/2U Rack Mount Blanks                   | MakerWorld                                  | [Link](https://makerworld.com/en/models/840793#profileId-786833)                          | ![1/2U Rack Mount Blanks](https://via.placeholder.com/400x300/cccccc/000000?text=1%2F2U+Rack+Mount+Blanks) |
-| 10" Network Rack (3U+4U+5U), Standard Dimensions   | Printables                                  | [Link](https://www.printables.com/model/786506-10-inch-network-rack-3u4u5u-standard-dimensions-al/files) | ![Network Rack 3U+4U+5U](https://via.placeholder.com/400x300/cccccc/000000?text=Network+Rack+3U%2B4U%2B5U) |
-| Storage Drawers                                   | Printables                                  | [Link](https://www.printables.com/model/490222-storage-drawers)                            | ![Storage Drawers](https://via.placeholder.com/400x300/cccccc/000000?text=Storage+Drawers) |
-| Raspberry Pi 4B 10-Inch Rack Mount               | Printables                                  | [Link](https://www.printables.com/model/932007-raspberry-pi-4b-10-inch-rack-mount/files)   | ![Raspberry Pi 4B Rack Mount](https://via.placeholder.com/400x300/cccccc/000000?text=Raspberry+Pi+4B+Rack+Mount) |
-| 3D Printable Modular 19-inch Rack Mount Collection (+ 10-inch versions!) | Reddit (u/Mauker_) | [Link](https://www.reddit.com/r/minilab/comments/1hssvol/3d_printable_modular_19inch_rack_mount_collection/) | ![Modular Rack Mount Collection](https://via.placeholder.com/400x300/cccccc/000000?text=Modular+Rack+Mount+Collection) |
-| Dell Optiplex 3040M/3070 Micro 10" Rack Mount    | Printables                                  | [Link](https://www.printables.com/model/587391-dell-optiplex-3040m-3070-micro-10-rack-mount/files) | ![Dell Optiplex 3040M Rack Mount](https://via.placeholder.com/400x300/cccccc/000000?text=Dell+Optiplex+3040M+Rack+Mount) |
-| Dell Optiplex 7060 MicroPC 10-inch Rack Mount    | Printables                                  | [Link](https://www.printables.com/model/980541-dell-optiplex-7060-micropc-10-inch-rack-mount) | ![Dell Optiplex 7060 Rack Mount](https://via.placeholder.com/400x300/cccccc/000000?text=Dell+Optiplex+7060+Rack+Mount) |
-| 10-inch Rack Wall Mount Adapter                  | Printables                                  | [Link](https://www.printables.com/model/937177-10-inch-rack-wall-mount-adapter)             | ![Rack Wall Mount Adapter](https://via.placeholder.com/400x300/cccccc/000000?text=Rack+Wall+Mount+Adapter) |
-| 10-inch Rack Project                             | Thingiverse                                 | [Link](https://www.thingiverse.com/thing:3337383)                                         | ![10-inch Rack Project](https://via.placeholder.com/400x300/cccccc/000000?text=10-inch+Rack+Project) |
-| 10in Home Server Project                         | Printables                                  | [Link](https://www.printables.com/model/275203-10in-home-server-project/files)              | ![Home Server Project](https://via.placeholder.com/400x300/cccccc/000000?text=Home+Server+Project) |
-| Mini 10in Starter Lab                            | Reddit                                      | [Link](https://www.reddit.com/r/homelab/comments/zhe3au/decided_join_the_family_with_a_mini_10in_starter/izlpzph/) | ![Mini 10in Starter Lab](https://via.placeholder.com/400x300/cccccc/000000?text=Mini+10in+Starter+Lab) |
-
-## 10in Projects/Builds
-
-In no particular order
-
-| Info                                      | URL                                                                                     | Photo                                                                                     |
-|-------------------------------------------|-----------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
-| I was told to post my 10-inch rack - u/Mauker_ | [Link](https://www.reddit.com/r/minilab/comments/1dx07hl/i_was_told_to_post_my_10inch_rack_here/) | ![10-inch rack](https://via.placeholder.com/400x300/cccccc/000000?text=10%22+Server+Rack) |
-| 8U Mini rack build constructed from Walnut - u/rambim | [Link](https://www.reddit.com/r/minilab/comments/1gsdaqi/8u_mini_rack_build_constructed_from_walnut/) | ![Walnut rack](https://via.placeholder.com/400x300/cccccc/000000?text=Walnut+Rack) |
-| 8U 10” Rack - Shelves and Monitor - u/Cigar-Bros | [Link](https://www.reddit.com/r/minilab/comments/1fmuq1l/8u_10_rack_shelves_and_monitor/) | ![Rack with monitor](https://via.placeholder.com/400x300/cccccc/000000?text=Rack+with+Monitor) |
-| 4U 10" rack build not 10k build - by u/Sn00m00 | [Link](https://www.reddit.com/r/Ubiquiti/comments/1cwz56v/4u_10_rack_build_not_10k_build/) | ![4U rack](https://via.placeholder.com/400x300/cccccc/000000?text=4U+Rack) |
-| My 10“ Rack on wheels - Time_Emu_8726 | [Link](https://www.reddit.com/r/minilab/comments/1fnfgf2/my_10_rack_on_wheels/) | ![Rack on wheels](https://via.placeholder.com/400x300/cccccc/000000?text=Rack+on+Wheels) |
-| 10in Mini Rack V1 - by u/cubedd | [Link](https://www.reddit.com/r/minilab/comments/1flnews/my_first_rack/) | ![Mini rack](https://via.placeholder.com/400x300/cccccc/000000?text=Mini+Rack) |
-| My first rack - u/Ok_Bumblebee665 | [Link](https://www.reddit.com/r/minilab/comments/1flnews/my_first_rack/) | ![First rack](https://via.placeholder.com/400x300/cccccc/000000?text=First+Rack) |
-| UCG-Max based RPI4 Cluster Minilab - LukeHoersten | [Link](https://www.reddit.com/r/minilab/comments/1e8xz8a/ucgmax_based_rpi4_cluster_minilab/) | ![RPI4 cluster](https://via.placeholder.com/400x300/cccccc/000000?text=RPI4+Cluster) |
-| Decided join the family with a mini 10in starter lab - carney2134 | [Link](https://www.reddit.com/r/homelab/comments/zhe3au/decided_join_the_family_with_a_mini_10in_starter/) | ![Starter lab](https://via.placeholder.com/400x300/cccccc/000000?text=Starter+Lab) |
-| it continues - u/discop3t3 | [Link](https://www.reddit.com/r/minilab/comments/1grzk14/it_continues/) | ![Rack upgrade](https://via.placeholder.com/400x300/cccccc/000000?text=Rack+Upgrade) |
-| Fun Size Lab 2.0 - u/exdarko | [Link](https://www.reddit.com/r/minilab/comments/yp9wzo/fun_size_lab_20/) | ![Fun size lab](https://via.placeholder.com/400x300/cccccc/000000?text=Fun+Size+Lab) |
-| WIP - it’s a start - u/Jazzlike-Ad748 | [Link](https://www.reddit.com/r/minilab/comments/1flms7f/wip_its_a_start/) | ![WIP rack](https://via.placeholder.com/400x300/cccccc/000000?text=WIP+Rack) |
-| My little home lab - TheAnonymousMaker | [Link](https://www.reddit.com/r/minilab/comments/1hrfg6q/my_little_home_lab/) | ![Home lab](https://via.placeholder.com/400x300/cccccc/000000?text=Home+Lab) |
-| Did not know this sub existed, here you go, my tiny rack - Digital-Ronin | [Link](https://www.reddit.com/r/minilab/comments/1g4p20j/did_not_know_this_sub_existed_here_you_go_my_tiny/) | ![Tiny rack](https://via.placeholder.com/400x300/cccccc/000000?text=Tiny+Rack) |
-| Finally Completed Minilab - colev14 | [Link](https://www.reddit.com/r/minilab/comments/1ds0z97/finally_completed_minilab/) | ![Completed minilab](https://via.placeholder.com/400x300/cccccc/000000?text=Completed+Minilab) |
-| My new 10" DIY rack - nairol203 | [Link](https://www.reddit.com/r/minilab/comments/1bffy2y/my_new_10_diy_rack/) | ![DIY rack](https://via.placeholder.com/400x300/cccccc/000000?text=DIY+Rack) |
-| My Homelab! Upgraded from 6U - michaelclaw | [Link](https://www.reddit.com/r/minilab/comments/1fvogo1/my_homelab_upgraded_from_6u/) | ![Upgraded homelab](https://via.placeholder.com/400x300/cccccc/000000?text=Upgraded+Homelab) |
+| Info                                      | URL                                                                                     |
+|-------------------------------------------|-----------------------------------------------------------------------------------------|
+| I was told to post my 10-inch rack - u/Mauker_ | [Link](https://www.reddit.com/r/minilab/comments/1dx07hl/i_was_told_to_post_my_10inch_rack_here/) |
+| 8U Mini rack build constructed from Walnut - u/rambim | [Link](https://www.reddit.com/r/minilab/comments/1gsdaqi/8u_mini_rack_build_constructed_from_walnut/) |
+| 8U 10” Rack - Shelves and Monitor - u/Cigar-Bros | [Link](https://www.reddit.com/r/minilab/comments/1fmuq1l/8u_10_rack_shelves_and_monitor/) |
+| 4U 10" rack build not 10k build - by u/Sn00m00 | [Link](https://www.reddit.com/r/Ubiquiti/comments/1cwz56v/4u_10_rack_build_not_10k_build/) |
+| My 10“ Rack on wheels - Time_Emu_8726 | [Link](https://www.reddit.com/r/minilab/comments/1fnfgf2/my_10_rack_on_wheels/) |
+| 10in Mini Rack V1 - by u/cubedd | [Link](https://www.reddit.com/r/minilab/comments/1flnews/my_first_rack/) |
+| My first rack - u/Ok_Bumblebee665 | [Link](https://www.reddit.com/r/minilab/comments/1flnews/my_first_rack/) |
+| UCG-Max based RPI4 Cluster Minilab - LukeHoersten | [Link](https://www.reddit.com/r/minilab/comments/1e8xz8a/ucgmax_based_rpi4_cluster_minilab/) |
+| Decided join the family with a mini 10in starter lab - carney2134 | [Link](https://www.reddit.com/r/homelab/comments/zhe3au/decided_join_the_family_with_a_mini_10in_starter/) |
+| it continues - u/discop3t3 | [Link](https://www.reddit.com/r/minilab/comments/1grzk14/it_continues/) |
+| Fun Size Lab 2.0 - u/exdarko | [Link](https://www.reddit.com/r/minilab/comments/yp9wzo/fun_size_lab_20/) |
+| WIP - it’s a start - u/Jazzlike-Ad748 | [Link](https://www.reddit.com/r/minilab/comments/1flms7f/wip_its_a_start/) |
+| My little home lab - TheAnonymousMaker | [Link](https://www.reddit.com/r/minilab/comments/1hrfg6q/my_little_home_lab/) |
+| Did not know this sub existed, here you go, my tiny rack - Digital-Ronin | [Link](https://www.reddit.com/r/minilab/comments/1g4p20j/did_not_know_this_sub_existed_here_you_go_my_tiny/) |
+| Finally Completed Minilab - colev14 | [Link](https://www.reddit.com/r/minilab/comments/1ds0z97/finally_completed_minilab/) |
+| My new 10" DIY rack - nairol203 | [Link](https://www.reddit.com/r/minilab/comments/1bffy2y/my_new_10_diy_rack/) |
+| My Homelab! Upgraded from 6U - michaelclaw | [Link](https://www.reddit.com/r/minilab/comments/1fvogo1/my_homelab_upgraded_from_6u/) |
 
 
 # Other Labs
