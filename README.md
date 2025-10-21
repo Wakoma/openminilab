@@ -2,9 +2,9 @@
 
 <p align="center"><img alt="Wakoma nimble" src="https://raw.githubusercontent.com/Wakoma/nimble/master/assets/img/Model_M/36.jpg" height="auto" width="800"></p>
 
-## Why this repo? 
+## 📌 Why this repo? 
 
-Since we built the nimble (https://github.com/Wakoma/nimble) in 2021 there has been an explosion in interest in minilabs.  Some folks are entirely new to minilabs/homelabs/selfhosting, while others are downsizing from 19" labs due to electricity costs, space requirements, etc.
+Since we built the nimble (https://github.com/Wakoma/nimble) in 2021 there has been an explosion in interest in minilabs.  Some folks are entirely new to minilabs/homelabs/selfhosting, while others are downsizing from 19" labs due to cost, space, or energy constraints.
 
 This repo is completely open source, and intended to bring together resources for anyone interested in or currently building a minilab. We also aim to promote/develop open minilab standards to ensure we can learn and build from eachother. 
 
@@ -73,23 +73,29 @@ CC-BY-SA-4.0
 
 
 
-## Resources from the Wakoma Team
+### Resources from the Wakoma Team
 
-- Link to nimble HW Database:
-- Link to Builder: 
-- Link to Wakoma Printables Collections:
+- [Nimble HW Database](https://nocodb.wakoma.net/dashboard/#/nc/view/fdd19387-69e5-4b79-966d-65c3733339cd)
 
+- [Builder](https://nimble.wakoma.co/)
 
+- [Wakoma Printables Collections](https://www.printables.com/model/80708-wakoma-nimble)
 
-## Reddit Links/Guides:
+  
 
-- https://www.reddit.com/r/minilab/
-- https://www.reddit.com/r/minilab/comments/1g1nto6/offtheshelf_10_gear_guide/
-- https://www.reddit.com/r/homelab/
-- https://www.reddit.com/r/homelab/wiki/index/
-- https://www.reddit.com/r/3DPPC/ - A place for sharing builds, STLs, and discussion of 3D printed PC cases.
-- Rack Mounting FAQ:
-https://www.micropolis.com/support/kb/rack-mounting-faq
+### Links & Guides
+
+- [r/minilab](https://www.reddit.com/r/minilab/)
+
+- [Off-the-Shelf 10" Gear Guide](https://www.reddit.com/r/minilab/comments/1g1nto6/offtheshelf_10_gear_guide/)
+
+- [r/homelab](https://www.reddit.com/r/homelab/)
+
+- [r/homelab Wiki](https://www.reddit.com/r/homelab/wiki/index/)
+
+- [r/3DPPC](https://www.reddit.com/r/3DPPC/) (3D-printed PC cases)
+
+- [Rack Mounting FAQ](https://www.micropolis.com/support/kb/rack-mounting-faq)
 
 
 
