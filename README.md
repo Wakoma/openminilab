@@ -2,6 +2,9 @@
 
 <p align="center"><img alt="Wakoma nimble" src="https://raw.githubusercontent.com/Wakoma/nimble/master/assets/img/Model_M/36.jpg" height="auto" width="800"></p>
 
+## 2025 Update
+We are sunsetting this project for now as [this repo](https://github.com/geerlingguy/mini-rack) has taken off with a growing hardware list and great build showcase. See you over there!
+
 ## 📌 Why this repo? 
 
 Since we built the nimble (https://github.com/Wakoma/nimble) in 2021 there has been an explosion in interest in minilabs.  Some folks are entirely new to minilabs/homelabs/selfhosting, while others are downsizing from 19" labs due to cost, space, or energy constraints.
